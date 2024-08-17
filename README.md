@@ -1,2 +1,4 @@
 # tictactoe
-Tic tac toe repo
+machine coding for tic tac toe game
+
+
